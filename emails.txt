@@ -1,0 +1,2 @@
+recipient1@example.com,/path/to/document1.pdf
+recipient2@example.com,/path/to/document2.pdf
